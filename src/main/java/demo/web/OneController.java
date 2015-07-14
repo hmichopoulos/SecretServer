@@ -1,8 +1,3 @@
-/*
- * Copyright 2015 Technology Nexus. All rights reserved.
- * Nexus Technology PROPRIETARY/CONFIDENTIAL.
- * Use is subject to license terms. www.nexusgroup.com
- */
 package demo.web;
 
 import org.springframework.web.bind.annotation.*;
